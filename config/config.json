@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "celil123",
+    "database": "database_development",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "celil123",
+    "database": "database_development",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "celil123",
+    "database": "database_development",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
